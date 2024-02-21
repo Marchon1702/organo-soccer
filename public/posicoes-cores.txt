@@ -1,0 +1,22 @@
+posições e cores 
+
+{
+      nome: 'Atacante',
+      corPrimaria: '#E06B69',
+      corSecundaria: '#FDE7E8'
+    },
+    {
+      nome: 'Meio Campo',
+      corPrimaria: '#57C278',
+      corSecundaria: '#D9F7E9'
+    },
+    {
+      nome: 'Denfensor',
+      corPrimaria: '#57C278',
+      corSecundaria: '#D9F7E9'
+    },
+    {
+      nome: 'Goleiro',
+      corPrimaria: '#FFBA05',
+      corSecundaria: '#FFF5D9'
+    }

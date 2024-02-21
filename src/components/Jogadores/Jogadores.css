@@ -1,0 +1,25 @@
+.jogadores {
+    width: 280px;
+
+    margin: 20px auto;
+}
+
+.jogadores .cabecalho {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.jogadores img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.jogadores .descricao {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px #00000014;
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+}

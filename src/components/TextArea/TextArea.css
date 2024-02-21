@@ -1,0 +1,21 @@
+.text-area label {
+    display: block;
+    margin: 12px 0px;
+
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.text-area input {
+    width: 100%;
+    padding: 24px;
+    margin-bottom: 12px;
+
+    background-color: #ffff;
+
+    font-size: 24px;
+
+    border: none;
+
+    box-shadow: 4px 6px 6px #0000002d;
+}
