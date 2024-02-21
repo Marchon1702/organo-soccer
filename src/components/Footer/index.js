@@ -12,7 +12,7 @@ const Footer = () => {
                 <img src="/images/logo.png" alt="logo Organo" />
             </div>
             <div className='direitos'>
-                <h4>Desenvolvido por Alura</h4>
+                <h4>Desenvolvido por Matheus Marchon baseado em um projeto da alura.</h4>
             </div>
         </footer>
     )
