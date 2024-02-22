@@ -28,7 +28,8 @@ function App() {
   }, [jogadores])
 
   const addJogador = (jogador) => {
-    if (jogadores.length > 10) return
+    if (jogadores.length > 10) return 
+    if(!jogador.posicoes || jogador.posicoes === '--Selecione uma Posição--') return
     if (!jogador.imagem) jogador.imagem = '/images/perfil-men.jpg'
 
     setJogadores([...jogadores, jogador])
